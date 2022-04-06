@@ -1,6 +1,7 @@
 # Learning React
 
-In this repo, I have added React apps while I learning react...
+In this repo, I have added React apps while I am learning react...
+If you downloaded any app, prior using it just write "npm install" in terminal to install all dependencies.
 
 Resources:
 1. [Introduction](https://www.javatpoint.com/react-introduction#:~:text=%E2%86%92%20%E2%86%90%20prev-,React%20Introduction,a%20software%20engineer%20at%20Facebook.)

@@ -1,0 +1,43 @@
+.form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 4px;
+    margin-top: 30px;
+}
+p{
+    color:aliceblue;
+    font-weight: 300;
+}
+.title{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1px;
+}
+.amount{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.date{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+input{
+    font-size: large;
+}
+.btn{
+    display:inline;
+    margin-left: auto;
+
+}
+@media (max-width: 700px){
+    .form{
+        width:80%;
+        margin-left: 40px;
+    }
+    input[type="date"]{
+        width: 233px;
+    }
+}

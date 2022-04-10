@@ -1,0 +1,17 @@
+.btn{
+    width:40%;
+    height: 30px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+    background-color: rgba(0, 255, 255, 0.591);
+    border: none;
+    transition: all 200ms ease-in-out;
+}
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+    width: 50%;
+    font-size: large;
+    font-weight: 400;
+}

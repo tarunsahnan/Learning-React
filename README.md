@@ -13,7 +13,10 @@ Resources which might help you:
 7. [Organizing Components](https://reactjs.org/docs/faq-structure.html)
 8. [Event Handeling](https://reactjs.org/docs/handling-events.html)
 9. [Input Forms](https://reactjs.org/docs/forms.html)
+
 10.[Passing Data from child to parent](https://www.geeksforgeeks.org/how-to-pass-data-from-child-component-to-its-parent-in-reactjs/)
+
 11.[Dynamic Displaying of Elements](https://reactjs.org/docs/hooks-state.html)
+
 12. [Keys in React](https://reactjs.org/docs/lists-and-keys.html)
 13. [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)

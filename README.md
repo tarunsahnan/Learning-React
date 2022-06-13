@@ -2,7 +2,7 @@
 
 In this repo, I have added React resources while I am learning react from [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).  I highly recommend this course, if anyone want to gain indepth knowldge of react from scratch.
 
-If you learn react in the following order by understanding every concept , I bet you will master react in just 20 days 
+If you learn react in the following order by understanding every concept , I bet you will master react in just 20 days.
 Resources I used to learn react in sequential order:
 1. [Introduction](https://www.javatpoint.com/react-introduction#:~:text=%E2%86%92%20%E2%86%90%20prev-,React%20Introduction,a%20software%20engineer%20at%20Facebook.)
 2. [What are the main advantages of ReactJS over plain JavaScript?](https://www.quora.com/What-are-the-main-advantages-of-ReactJS-over-plain-JavaScript)
@@ -27,3 +27,9 @@ Resources I used to learn react in sequential order:
 21. [useCallback](https://www.w3schools.com/react/react_usecallback.asp)
 22. [Class based components](https://www.geeksforgeeks.org/reactjs-class-based-components/)
 23. [Fetch API](https://jasonwatmore.com/post/2020/01/27/react-fetch-http-get-request-examples)
+24. [Custom Hooks](https://reactjs.org/docs/hooks-custom.html)
+25. [React Router](https://reactrouter.com/docs/en/v6)
+27. [React Redux](https://react-redux.js.org/introduction/getting-started)
+
+If you have gone through these articles wisely, then you must be a PRO in React as of now. Please practice by building up projects in React. Don't know which project to start?
+[Click Here](https://www.knowledgehut.com/blog/web-development/front-end-web-development-projects)
